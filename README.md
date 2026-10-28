@@ -1,28 +1,38 @@
 # Initial ABCross D
 
-## Description
-Initial ABCross D is a frogger-like game. 
+A Frogger-like game written in Python with PyGame, built while following the Zenva course "Learn Python Programming by Making a Game".
 
-### Preview:
-![alt text](screenshot.JPG "Screenshot")
+## About The Project
 
-## More about this project
+The original README noted that this project was made coding along while following the course, with several changes from the original project.
 
-### Related course
-ZENVA | LEARN PYTHON PROGRAMMING BY MAKING A GAME
+![Screenshot](screenshot.JPG)
 
-### Technologies | Libraries | Frameworks | Tools  
-- Python 3  
+## Built With
+
+- Python 3
 - PyGame
 
-### Details | Comments
-- Albeit this project was made coding along while following the related course, several changes have been made from the original project.  
+## Getting Started
 
-### Status
-Completed
+### Prerequisites
 
-#### Last update
-12/03/2020
+- Python 3 and PyGame
 
-#### Last update (README.md)
-26/05/2020
+### Running the game
+
+```bash
+python InitialABCrossD.py
+```
+
+## Status
+
+Completed, per the original README.
+
+## License
+
+No license file is present in this repository.
+
+## Contact
+
+Dylan J. Gerrits - [GitHub](https://github.com/Dyrits)
